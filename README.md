@@ -4,6 +4,12 @@ A practice outreach email studio, built with Claude Code. It writes cold emails 
 
 **Nothing here sends real email.** All leads are fake `@example.com` addresses, and sending runs against a local practice server.
 
+**Repository:** https://github.com/CAATs-kkhan/email-marketing-studio
+
+```
+git clone https://github.com/CAATs-kkhan/email-marketing-studio.git
+```
+
 ## What is in the repo
 
 | Path | What it is |
