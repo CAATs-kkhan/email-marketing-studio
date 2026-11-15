@@ -1,0 +1,19 @@
+# Private: the CV holds an ID number, date of birth, home address and phone number
+Final_CV*
+*.pdf
+*.docx
+
+# Source material: government publications, large, not ours to redistribute
+ACL Guidelines/
+
+# Working files and local state
+reviews/
+.claude/settings.local.json
+*.log
+.env
+.env.*
+node_modules/
+
+# Third-party skill, reinstall instead of redistributing:
+#   npx skills add https://github.com/coreyhaines31/marketingskills --skill cold-email
+.claude/skills/cold-email/
