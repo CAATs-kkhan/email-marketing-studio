@@ -49,7 +49,7 @@ Use it for your own outreach project instead of copying this one. It contains fi
 claude --plugin-dir recruiter-outreach-kit
 ```
 
-Then run `/recruiter-outreach-kit:setup-outreach`, followed by `:client-voice`, `:write-sequence`, `:personalize` and `:review-emails`. See `recruiter-outreach-kit/README.md` for known limits. It has been validated and tested on a fictional bakery client, and it has no license yet.
+Then run `/recruiter-outreach-kit:setup-outreach`, followed by `:client-voice`, `:write-sequence`, `:personalize` and `:review-emails`. See `recruiter-outreach-kit/README.md` for known limits. It has been validated and tested on a fictional bakery client.
 
 ## How the guard works
 
@@ -62,6 +62,10 @@ This is a practice project. Real outreach needs checks outside this repo, listed
 ## Using it for yourself
 
 The emails and voice file are written for one specific sender. To reuse the workflow for your own outreach, use the plugin above. Do not edit someone else's `brand/voice.md` and send as them.
+
+## License
+
+[MIT](LICENSE) for the contents of this repository. The third-party `cold-email` skill is not included and keeps its own license. Source documents that are left out of the repo (for example the ACL guideline PDFs) are not covered.
 
 ## Good to know
 

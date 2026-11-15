@@ -2,5 +2,11 @@
   "name": "recruiter-outreach-kit",
   "version": "0.1.0",
   "description": "Write, personalize, review and practice-send cold outreach emails to recruiters and staffing agencies, with a send guard that only allows practice addresses.",
-  "keywords": ["email", "outreach", "recruiters", "practice-mode"]
+  "keywords": [
+    "email",
+    "outreach",
+    "recruiters",
+    "practice-mode"
+  ],
+  "license": "MIT"
 }
